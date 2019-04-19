@@ -1,5 +1,5 @@
 # 스프링부트 api 기본 설정 프로젝트
-### (springboot-api-default-setting)
+
 - 스프링부트(springboot) 기반으로 api 기본셋팅하여 설정한 프로젝트 파일입니다. 
 - controller, service, dao, model, mapper, common, util, config, exception, log 패키지로 구성되어 있습니다.
 - aws rds maria db로 연결해 조회[GET] api 한개를 테스트로 만들었습니다.
